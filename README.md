@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am web developer and i love to build a ai project and also impoliment the ai in it also love to scale the website and i have around 2 year of experiance<br>
+I am a web developer with around two years of experience, passionate about building AI-driven projects, integrating AI into applications, and scaling websites.<br>
 
 
 ## 🌐 Socials:

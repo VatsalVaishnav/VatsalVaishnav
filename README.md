@@ -23,5 +23,3 @@ i am web developer and i love to build a ai project and also impoliment the ai i
 
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c)
 
-![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/2ecbdaf3-8ecc-4791-8906-3e2e7af695d4)
-

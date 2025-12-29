@@ -89,4 +89,11 @@ using modern frontend & backend technologies.
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+
 </div>

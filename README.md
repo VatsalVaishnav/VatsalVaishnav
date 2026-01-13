@@ -1,6 +1,6 @@
 <div>
 
-  ## 🚀 Dhruv Sheladiya | AI-Driven Web Developer
+  ## 🚀 Vatsal Vaishnav | AI-Driven Web Developer
 
 <p align="center">
   <b>Building scalable web apps • Integrating AI into real products • Performance-focused frontend</b>

@@ -1,86 +1,107 @@
-<div align="center">
+<div>
 
-# 💫 Hi, I'm Vatsal Vaishnav 👋  
+  ## 🚀 Dhruv Sheladiya | AI-Driven Web Developer
 
-### 🚀 Web Developer | AI-Driven Applications | Scalable Systems  
+<p align="center">
+  <b>Building scalable web apps • Integrating AI into real products • Performance-focused frontend</b>
+</p>
 
-I am a **Web Developer with 2+ years of experience**, passionate about building  
-**AI-powered applications**, integrating intelligent features into products,  
-and **scaling modern web platforms**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vatsal-vaishnav-76246b23b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vatsalvaishnav0503@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I enjoy transforming complex ideas into **clean, performant, and user-friendly solutions**  
-using modern frontend & backend technologies.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 👋 About Me
 
-## 🌐 Connect With Me  
+I’m a **Web Developer with ~2 years of hands-on experience**, focused on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-vaishnav-76246b23b)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsalvaishnav0503@gmail.com)
+- ⚡ **Building robust, performance-optimized web applications** that scale with growing user demands  
+- 🤖 **Bringing AI capabilities into real-world products**, focusing on usability, reliability, and measurable impact  
+- 🧠 **Crafting well-structured frontend architectures** that are easy to maintain, extend, and collaborate on  
+- 🚀 **Managing end-to-end deployment and scaling** using modern DevOps practices and tools  
 
-📩 *Open to full-time roles, freelance work, and exciting collaborations.*
+I enjoy working at the intersection of **Frontend, AI, and Product Engineering** — turning ideas into fast, production-ready solutions.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack  
+### 🚀 Core Expertise & Focus Areas
 
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white)
+- 🏗️ **Scalable React & Next.js Architectures**  
+  Designing modular, maintainable frontend systems that grow seamlessly with product and team size.
 
-### ⚙️ Backend & APIs  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io)
+- ⚡ **Performance Optimization & Clean State Management**  
+  Improving load times, rendering efficiency, and state predictability using modern best practices.
 
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+- 🤖 **AI Feature Integration**  
+  Building intelligent features such as recommendations, automation, and personalized user experiences.
 
-### ☁️ DevOps & Hosting  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+- 🔍 **SEO, Ads, Hydration & Production Debugging**  
+  Ensuring search visibility, ad performance, correct hydration, and reliable debugging in production environments.
 
-### 🧰 Tools  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+- 🧩 **Code That Scales With Users & Teams**  
+  Writing clean, reusable, and well-structured code that supports long-term growth and collaboration.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Stats  
+## 💻 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=VatsalVaishnav&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,redux,tailwind,mui,nodejs,firebase,aws,nginx,git,github,gitlab,postman,notion,vite,npm" />
+</p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=VatsalVaishnav&theme=dark&hide_border=false" />
+<!-- <details> -->
+  <summary>
+    <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp; -->
+    <b>Stats Overview</b>
 
-<br/>
+  
+  </summary>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalVaishnav&theme=dark&hide_border=false&layout=compact" />
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+  <div align="center">
+    <span>
+      <a href="#">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VatsalVaishnav&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <!-- <span>
+      <a href="https://aboutdhruv.vercel.app/">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhruv-1511&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+      </a>
+    </span> -->
+    <span>
+      <a href="#">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=VatsalVaishnav&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="#">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VatsalVaishnav&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+<!-- </details> -->
 
-## 🏆 GitHub Trophies  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VatsalVaishnav&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+## 🤝 Let’s Build Something Impactful
 
+- 💼 Open to **Frontend / Full-Stack / AI-focused roles**
+- 🚀 Interested in **startups, SaaS & product teams**
+- 📬 Email: **vatsalvaishnav0503@gmail.com**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⭐ If you like my work, consider starring a repository — it really helps!
 ## 🐍 Contribution Graph  
 
 <img src="https://github.com/user-attachments/assets/800c7807-298d-415f-8081-e7d5d982555c" />
